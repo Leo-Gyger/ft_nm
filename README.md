@@ -3,7 +3,7 @@
 This repository is my attempt at recreating the nm function from LLVM.
 
 
-##Behaviour
+## Behaviour
 
 nm shows you the symbol table and their attributes from an executable,
 for example an a.out file. The output shows the difference between a function,
